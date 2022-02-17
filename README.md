@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**dwtompkins/dwtompkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Dan Tompkins. I'm a developer at Shift Collaborative.
 
 - 🔭 I’m currently working on ...
+
+  ... optimization, Gutenberg building, and setting up some new client sites!
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+  ... @react-three/fiber, a tool that integrates React and Three.js (a graphics processing library), on my free time!
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ... he/him
+
